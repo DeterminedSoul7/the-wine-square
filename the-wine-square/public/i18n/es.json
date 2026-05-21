@@ -1,0 +1,29 @@
+{
+  "toolbar": {
+    "home": "Inicio",
+    "newPreservationItem": "Nuevo Registro"
+  },
+
+  "home": {
+    "title": "Inicio",
+    "subtitle": "Productos diseñados para bodegas de vino",
+    "cellars": "Mis Bodegas"
+  },
+
+  "preservation": {
+    "records": "Registros de Preservación"
+  },
+
+  "notFound": {
+    "title": "Página No Encontrada",
+    "message": "La página solicitada no existe.",
+    "button": "Volver al Inicio"
+  },
+
+  "newPreservation": {
+    "title": "Nuevo Registro",
+    "wineType": "Tipo de vino",
+    "quantity": "Cantidad",
+    "register": "Registrar"
+  }
+}

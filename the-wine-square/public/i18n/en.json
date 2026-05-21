@@ -1,0 +1,29 @@
+{
+  "toolbar": {
+    "home": "Home",
+    "newPreservationItem": "New Preservation Item"
+  },
+
+  "home": {
+    "title": "Home",
+    "subtitle": "Engineered Products for Wine Cellars",
+    "cellars": "My Wine Cellars"
+  },
+
+  "preservation": {
+    "records": "Preservation Records"
+  },
+
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "The page you requested does not exist.",
+    "button": "Return Home"
+  },
+
+  "newPreservation": {
+    "title": "New Preservation Item",
+    "wineType": "Wine Type",
+    "quantity": "Quantity",
+    "register": "Register"
+  }
+}
