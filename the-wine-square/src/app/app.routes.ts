@@ -8,7 +8,7 @@ const pageNotFound = () => import('./shared/presentation/views/page-not-found/pa
 // Uncomment when IAM is implemented
 const iamRoutes = () => import('./iam/presentation/iam.routes').then(m => m.iamRoutes);
 */
-const baseTitle = 'ACME Learning Center';
+const baseTitle = 'The Wine Square Cellar Management Platform';
 
 /**
  * Root route configuration that composes bounded-context routes.
